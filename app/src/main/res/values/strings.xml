@@ -1,0 +1,125 @@
+<resources>
+    <string name="app_name">UCC IT App</string>
+
+    <string-array name="directory_0">
+        <item>Amonde, Tom</item>
+        <item>Antoine, Jodi Ann</item>
+        <item>Beckford, Carissa</item>
+        <item>Beckford, Schana</item>
+        <item>Bennett, Winsome</item>
+        <item>Creary, Shantell</item>
+        <item>Davidson, Sonia</item>
+        <item>Hylton, Shevel</item>
+        <item>Johnson-Henry, Trecia</item>
+        <item>Miller, Ionie</item>
+        <item>Ndajah, Peter</item>
+        <item>Rose, Natalie</item>
+        <item>Thomas, Pamella</item>
+        <item>Thompson-Taylor, Shelley</item>
+        <item>Watts, Maxine</item>
+        <item>Williamson, Noyoland</item>
+        <item>Wray-Yuan, Kimean</item>
+    </string-array>
+
+    <string-array name="directory_1">
+        <item>Head of Department</item>
+        <item>Programme Coordinator</item>
+        <item>Programme Coordinator</item>
+        <item>Programme Coordinator</item>
+        <item>Programme Coordinator</item>
+        <item>Programme Officer</item>
+        <item>Head of Department</item>
+        <item>Programme Officer</item>
+        <item>Programme Coordinator</item>
+        <item>Head of Department</item>
+        <item>Head of Department</item>
+        <item>Head of Department</item>
+        <item>Senior Programme Coordinator</item>
+        <item>Programme Coordinator</item>
+        <item>Programme Coordinator</item>
+        <item>Programme Coordinator</item>
+        <item>Programme Coordinator</item>
+    </string-array>
+
+    <string-array name="directory_2">
+        <item>College of Graduate Studies &amp; Research</item>
+        <item>BSc. in Social Work, BSc. in Applied Psychology,\n<br />BSc. in Criminology and Criminal Justice</item>
+        <item>BSc. in Tourism &amp; Hospitality Management</item>
+        <item>Corporate Education Division</item>
+        <item>BSc. in Information Technology,\n<br />BSc. in Networking with Cyber Security</item>
+        <item>Corporate Education Division</item>
+        <item>Business Administration</item>
+        <item>K-13 ASc. Business Administration</item>
+        <item>BSc. in Business Administration-1st and 2nd year\n<br />BSc. in Marketing,\n<br />BSc. in Logistics and Operations Management</item>
+        <item>General Studies &amp; Behavioural Sciences</item>
+        <item>Mathematics</item>
+        <item>Information Technology</item>
+        <item>BSc. in Accounting, BSc. in Financial Management</item>
+        <item>BSc. in Business Administration- 3rd and 4th year,\n<br />BSc. in Information Systems Management (ISM)</item>
+        <item>Bachelors of Laws &amp; Certificate in Law University of London (UOL)</item>
+        <item>BSc. in Human Resource Management, BA. Media &amp; Communications</item>
+        <item>BSc. in Business Administration- 1st and 2nd year</item>
+
+    </string-array>
+
+    <string-array name="directory_3">
+        <item>graduatestudiesdirector@ucc.edu.jm</item>
+        <item>genstudiesprogrcoord@ucc.edu.jm</item>
+        <item>tourismcoordinator@ucc.edu.jm</item>
+        <item>corporateedcoordinator@ucc.edu.jm</item>
+        <item>itprogrammeofficer@ucc.edu.jm</item>
+        <item>corporateedprogoff2@ucc.edu.jm</item>
+        <item>businessadminhod@ucc.edu.jm</item>
+        <item>busprogrammeofficer@ucc.edu.jm</item>
+        <item>businessprogrcoordinator2@ucc.edu.jm</item>
+        <item>appliedpsychologyfaculty@ucc.edu.jm</item>
+        <item>headofschoolsmathit@ucc.edu.jm</item>
+        <item>ithod@ucc.edu.jm</item>
+        <item>pthomas@ucc.edu.jm</item>
+        <item>staylor@ucc.edu.jm</item>
+        <item>mmwatts@ucc.edu.jm</item>
+        <item>nwilliamson@ucc.edu.jm</item>
+        <item>busprogrcoordinator3@ucc.edu.jm</item>
+    </string-array>
+
+    <string-array name="directory_4">
+        <item>(876) 906-3000 ext: 4091</item>
+        <item>876-822-7254</item>
+        <item>876-548-0536</item>
+        <item>876-315-8218</item>
+        <item>876-548-0629</item>
+        <item>876-315-8218</item>
+        <item>(876) 906-3000 ext: 4044</item>
+        <item>876-548-0099</item>
+        <item>876-322-4656</item>
+        <item>(876) 906-3000 ext: 4019</item>
+        <item>(876) 906-3000</item>
+        <item>(876) 906-3000 ext: 4046</item>
+        <item>876-822-7254</item>
+        <item>876-548-0352</item>
+        <item>876-320-7981</item>
+        <item>876-548-0502</item>
+        <item>876-322-2397</item>
+    </string-array>
+
+    <string-array name="directory_5">
+        <item>tom_amonde</item>
+        <item>jodi_ann_antoine</item>
+        <item>carissa_beckford</item>
+        <item>schana_beckford</item>
+        <item>winsome_bennett</item>
+        <item>shantell_creary</item>
+        <item>sonia_davidson</item>
+        <item>shevel_hylton</item>
+        <item>trecia_johnson_henry</item>
+        <item>ionie_miller</item>
+        <item>peter_ndajah</item>
+        <item>natalie_rose</item>
+        <item>pamella_thomas</item>
+        <item>shelley_thompson_taylor</item>
+        <item>maxine_watts</item>
+        <item>noyoland_williamson</item>
+        <item>kimean_wray_yuan</item>
+    </string-array>
+
+</resources>
